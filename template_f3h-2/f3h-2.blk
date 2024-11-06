@@ -1,0 +1,16 @@
+name:t="user"
+
+replace_tex{
+  from:t="aero_7_olive_c*"
+  to:t="aero_7_white.tga"
+}
+
+replace_tex{
+  from:t="f3h_2_a*"
+  to:t="f3h_2_a.tga"
+}
+
+replace_tex{
+  from:t="f3h_2_n*"
+  to:t="f3h_2_n.tga"
+}

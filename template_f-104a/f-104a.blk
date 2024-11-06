@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="f_104a_c*"
+  to:t="f_104a_c_00000.tga"
+}
+
+replace_tex{
+  from:t="f_104a_n*"
+  to:t="f_104a_n.dds"
+}
