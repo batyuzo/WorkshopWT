@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="f8u_2_c*"
+  to:t="f8u_2.tga"
+}
+
+replace_tex{
+  from:t="f8u_2_n*"
+  to:t="f8u_2_n.tga"
+}

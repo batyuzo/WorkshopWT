@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="mig_19s_ussr_c*"
+  to:t="mig_19s_germany_00000.tga"
+}
+
+replace_tex{
+  from:t="mig_19s_ussr_n*"
+  to:t="mig_19s_germany_n.tga"
+}

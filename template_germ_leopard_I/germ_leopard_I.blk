@@ -1,0 +1,30 @@
+name:t="user"
+
+replace_tex{
+  from:t="ger_camo_bronzegruen*"
+  to:t="ger_camo_bronzegruen.tga"
+}
+
+set_tex{
+  from:t="leopard_1_body_c*"
+  to:t="leopard_1_body_00000.tga"
+  param:t="camo_skin_tex"
+}
+
+set_tex{
+  from:t="leopard_1_turret_c*"
+  to:t="leopard_1_turret_00000.tga"
+  param:t="camo_skin_tex"
+}
+
+set_tex{
+  from:t="leopard_1_gun_c*"
+  to:t="leopard_1_gun_00000.tga"
+  param:t="camo_skin_tex"
+}
+
+set_tex{
+  from:t="mg_mount_leopard_c*"
+  to:t="mg_mount_leopard.tga"
+  param:t="camo_skin_tex"
+}
