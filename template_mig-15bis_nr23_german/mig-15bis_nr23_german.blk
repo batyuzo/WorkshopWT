@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="mig_15bis_r23_a*"
+  to:t="mig_15bis_r23_german_a_00000.tga"
+}
+
+replace_tex{
+  from:t="mig_15bis_r23_n*"
+  to:t="mig_15bis_r23_german_n.tga"
+}

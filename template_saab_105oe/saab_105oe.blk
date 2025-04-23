@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="saab_105oe_austria_c*"
+  to:t="saab_105oe_austria_0000.tga"
+}
+
+replace_tex{
+  from:t="saab_105oe_austria_n*"
+  to:t="saab_105oe_austria_n.tga"
+}

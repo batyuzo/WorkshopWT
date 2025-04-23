@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="saab_j29b_c*"
+  to:t="saab_j29b_00000.tga"
+}
+
+replace_tex{
+  from:t="saab_j29b_n*"
+  to:t="saab_j29b_n.tga"
+}

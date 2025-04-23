@@ -1,0 +1,11 @@
+name:t="user"
+
+replace_tex{
+  from:t="p38e_usaaf_body_c*"
+  to:t="p38e_usaaf_body_00000.tga"
+}
+
+replace_tex{
+  from:t="p38e_usaaf_body_n*"
+  to:t="p38e_usaaf_body_n.tga"
+}
